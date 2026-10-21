@@ -1,0 +1,5 @@
+﻿number=int(input("Enter a number to check?"))
+if number % 2 == 0:
+    print("This is an Even Number.")
+else:
+    print("This is an odd number.")
